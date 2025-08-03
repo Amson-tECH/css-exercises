@@ -9,7 +9,7 @@ Your task is to add animation to the dropdown menu so that it will have an effec
 - You need to add an intermediate step to the keyframe at rule to implement the _bounce_ illusion.
 
 ## Desired Outcome
-
+ 
 ![outcome](./desired-outcome.gif)
 
 ### Self Check
